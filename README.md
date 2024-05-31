@@ -4,7 +4,7 @@ This project automates the scenario where users from the FanCode city are checke
 
 Setup Instructions
 Clone the Repository:
-git clone https://github.com/your-username/fancode-api-automation.git
+git clone (https://github.com/prayashsdet/FancodeAssignment.git)
 
 Open the Project:
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
