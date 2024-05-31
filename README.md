@@ -13,15 +13,18 @@ Ensure Maven dependencies are resolved.
 Run the Test:
 Locate and run the FanCodeTest.java file in the src/test/java directory.
 This test executes the automation scenario to validate users' completed tasks in the FanCode city.
+
 Project Structure
 src/main/java/com/fancode/api: Contains API client classes for interacting with external APIs.
 src/main/java/com/fancode/model: Includes model classes for mapping API responses to Java objects.
 src/test/java/com/fancode/FancodeTest: Includes TestNG test classes for automation scenarios.
+
 Dependencies
 Java 8 or higher
 TestNG
 REST Assured
 Maven
+
 Execution Steps
 Open the project in your IDE.
 Ensure all dependencies are downloaded and resolved by Maven.
